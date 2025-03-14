@@ -20,9 +20,7 @@ An execution context consists of **two main components:**
 ### 1️⃣ **Memory Component (Variable Environment)**  
 - Stores all **variables and functions** as **key-value pairs**.  
 - Example:  
-
-  ```js
-  var a = 10; 
+ 
 
 ### **Memory Component (Variable Environment)**
 - Here, the variable `a` is stored with the value `10`.  
@@ -43,13 +41,10 @@ An execution context consists of **two main components:**
 - JavaScript can execute **only one command at a time**.  
 - The execution happens **sequentially**, meaning the next line executes **only after** the current line finishes.  
 
-#### Example:  
-
-```js
+#### Example:```js
 console.log("Hello");
 console.log("World");
 
- ---
 ### ❓ **Common Confusion: What About Asynchronous JavaScript?**  
 Many developers are familiar with **AJAX** (Asynchronous JavaScript and XML), which involves **asynchronous execution**.  
 
@@ -68,4 +63,6 @@ This topic will be covered in detail in later sections, but for now, just rememb
    - **Code Component (Thread of Execution)** – Executes the code **line by line**.  
 
 ✅ **JavaScript is a synchronous and single-threaded language.**  
+
+
 
