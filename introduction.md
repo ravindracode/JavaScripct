@@ -48,6 +48,8 @@ An execution context consists of **two main components:**
 ```js
 console.log("Hello");
 console.log("World");
+
+ ---
 ### ❓ **Common Confusion: What About Asynchronous JavaScript?**  
 Many developers are familiar with **AJAX** (Asynchronous JavaScript and XML), which involves **asynchronous execution**.  
 
@@ -66,3 +68,4 @@ This topic will be covered in detail in later sections, but for now, just rememb
    - **Code Component (Thread of Execution)** – Executes the code **line by line**.  
 
 ✅ **JavaScript is a synchronous and single-threaded language.**  
+
