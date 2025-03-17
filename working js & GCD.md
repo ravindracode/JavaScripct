@@ -156,6 +156,6 @@ Stay tuned! 😃✨
 - The **GEC** is created first and removed last.  
 
 ---
-![Screenshot](https://github.com/ravindracode/JavaScripct/blob/main/Capture.PNG)
+
 
   
