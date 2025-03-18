@@ -65,8 +65,10 @@ This topic will be covered in detail in later sections, but for now, just rememb
 ✅ **JavaScript is a synchronous and single-threaded language.**  
 
 ![Alt Text](images/Capture.png)
-![Alt Text](images/image-name.png)
-![Alt Text](images/image-name.png)
+![Alt Text](images/pic2.png)
+![Alt Text](images/pic3.png)
+![Alt Text](images/pic4.png)
+
 
 
 
