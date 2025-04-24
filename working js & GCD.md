@@ -156,6 +156,6 @@ Stay tuned! 😃✨
 - The **GEC** is created first and removed last.  
 
 ---
-
+![Alt Text](images/image.PNG)
 
   
