@@ -168,7 +168,7 @@ These examples illustrate the core concepts of hoisting and the Call Stack in Ja
 
 
 
-![Alt Text](images/hosit pic 1.PNG)
-![Alt Text](images/hositpic 2.PNG)
-![Alt Text](images/hositpic 3.PNG)
-![Alt Text](images/hositpic 4.PNG)
+![Alt Text](images/hoist1.PNG)
+![Alt Text](images/hoist2.PNG)
+![Alt Text](images/hoist3.PNG)
+![Alt Text](images/hoist4.PNG)
