@@ -164,3 +164,11 @@ Plaintext
 ## Conclusion
 
 These examples illustrate the core concepts of hoisting and the Call Stack in JavaScript. Understanding these mechanisms is crucial for writing predictable and error-free code.
+
+
+
+
+![Alt Text](images/hosit pic 1.PNG)
+![Alt Text](images/hositpic 2.PNG)
+![Alt Text](images/hositpic 3.PNG)
+![Alt Text](images/hositpic 4.PNG)
